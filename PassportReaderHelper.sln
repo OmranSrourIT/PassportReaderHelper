@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassportReaderHelper", "PassportReaderHelper\PassportReaderHelper.csproj", "{16827265-2673-41BA-838F-0C3658BE33EE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PassportHelperSetup", "PassportHelperSetup\PassportHelperSetup.vdproj", "{E771CA42-9C18-4CF4-B61A-D62A0E08E492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16827265-2673-41BA-838F-0C3658BE33EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16827265-2673-41BA-838F-0C3658BE33EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16827265-2673-41BA-838F-0C3658BE33EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16827265-2673-41BA-838F-0C3658BE33EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E771CA42-9C18-4CF4-B61A-D62A0E08E492}.Debug|Any CPU.ActiveCfg = Debug
+		{E771CA42-9C18-4CF4-B61A-D62A0E08E492}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {672EAD32-44DB-49C0-A55A-892893B97A22}
+	EndGlobalSection
+EndGlobal
